@@ -16,5 +16,20 @@ namespace sunsudrill
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void InBOX_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                Console.WriteLine(InBOX.Text);
+                OutBox.AppendText(InBOX.Text + "\r\n");
+                InBOX.Text = "";
+            }
+        }
     }
 }

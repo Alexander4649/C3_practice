@@ -1,0 +1,11 @@
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\bin\Debug\sunsudrill.exe.config
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\bin\Debug\sunsudrill.exe
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\bin\Debug\sunsudrill.pdb
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.csproj.AssemblyReference.cache
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.csproj.SuggestedBindingRedirects.cache
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.Form1.resources
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.Properties.Resources.resources
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.csproj.GenerateResource.cache
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.csproj.CoreCompileInputs.cache
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.exe
+C:\Users\teshigawara\source\repos\sunsudrill\sunsudrill\obj\Debug\sunsudrill.pdb
